@@ -28,7 +28,7 @@ twitter_username: askipio
 github_username:  askipio
 
 # Build settings
-theme: modernist
+theme: minima
 plugins:
   - jekyll-feed
 
