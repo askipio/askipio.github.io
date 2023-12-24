@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Turing Complete"
 date:   2023-12-24 06:31:11 -0500
 categories: jekyll update
