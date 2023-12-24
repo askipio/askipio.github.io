@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
+title: Welcome to my blog!
+subtitle: A nice place
+author: Haru
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
@@ -50,6 +50,8 @@ $ a \* b = c ^ b $
 $ 2^{\frac{n-1}{3}} $
 
 $ \int_a^b f(x)\,dx. $
+
+You are a function mapping $X \to Y$
 
 ```cpp
 #include <iostream>
