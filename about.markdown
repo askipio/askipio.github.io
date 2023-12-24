@@ -16,3 +16,9 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+## About me
+
+My name is Haru and I am interested in thinking about utopias that people would actually want to live in.
+
+I take inspiration from [Envisioning Real Utopias] by Erik Olin Wright.
