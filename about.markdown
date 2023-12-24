@@ -4,21 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-
 ## About me
 
-My name is Haru and I am interested in thinking about utopias that people would actually want to live in.
+My name is Haru, and I am in my last semester at Williams College. I study Physics and Computer Science, broadly interested in the science of optimization. I do research at the [Williams College Material Physics Lab](https://sites.williams.edu/materials/) advised by Prof. Kate Jensen.
 
-I take inspiration from [Envisioning Real Utopias] by Erik Olin Wright.
+Outside of my current research in physics, I am interested in thinking about utopias that people would actually want to live in.
+
