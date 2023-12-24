@@ -28,9 +28,9 @@ twitter_username: askipio
 github_username:  askipio
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-pages-themes/dinky@v0.2.0
 plugins:
-  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
