@@ -5,7 +5,11 @@
 layout: default
 ---
 
-Hello Hello HELLO
+Hello, stranger
 
+My name is Haru
 
-Can I link stuff from here??
+& this site is under construction
+
+While you wait, [here is a poem I wrote](https://askipio.github.io/poetry.html)
+
