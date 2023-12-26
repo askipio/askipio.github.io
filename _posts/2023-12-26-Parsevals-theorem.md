@@ -23,7 +23,7 @@ $$
 F(\omega) = \int_{-\infty}^{\infty} f(t) e^{-i\omega t} \, dt
 $$
 
-Now, consider the product \(f(t) \cdot \overline{f(t)}\), where \(\overline{f(t)}\) is the complex conjugate of \(f(t)\):
+Now, consider the product $(f(t) \cdot \overline{f(t)}$, where $\overline{f(t)}$ is the complex conjugate of $f(t)$:
 
 $$
 f(t) \cdot \overline{f(t)} = |f(t)|^2
@@ -35,7 +35,7 @@ $$
 \mathcal{F}\{f(t) \cdot \overline{f(t)}\} = \int_{-\infty}^{\infty} f(t) \cdot \overline{f(t)} \cdot e^{-i\omega t} \, dt
 $$
 
-Since the product is real, \(\overline{f(t)}\) is the complex conjugate of \(f(t)\), and the Fourier transform of a real function is Hermitian, we have:
+Since the product is real, $\overline{f(t)}$ is the complex conjugate of $f(t)$, and the Fourier transform of a real function is Hermitian, we have:
 
 $$
 \mathcal{F}\{f(t) \cdot \overline{f(t)}\} = \int_{-\infty}^{\infty} |F(\omega)|^2 \, d\omega
